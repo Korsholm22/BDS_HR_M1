@@ -208,13 +208,4 @@ with tab4:
    st.header("Unsupervised Machine Learning")
    st.info("The UML did not work properly in the streamlit app. Therefore you get some pictures instead. For further information take a look in the notebook!")
 
-with st.expander("Feature Engineering"):
-    st.image(image = "C:\Users\nickl\BDS_HR_M1\Feature Engineering 1 .png")
-with st.expander("PCA"):
-    st.image(image = "PCA 1.png")
-    st.image(image = "PCA 2.png")
-    st.image(image = "PCA 3.png")
-    st.image(image = "PCA 4.png")
-with st.expander("K-Means"):
-    st.image(image = "KMeans.png")
-    st.image(image = "KMeans 2.png")
+
