@@ -210,20 +210,20 @@ with tab4:
 
    with st.expander("Feature Engineering"):
 
-      st.image(image = "BDS_HR_M1\Photos\Feature Engineering 1 .png")
+      st.image(image = "Photos\Feature Engineering 1 .png")
 
-   with st.expander("BDS_HR_M1\Photos\Feature PCA .png"):
+   with st.expander("Photos\Feature PCA .png"):
 
-      st.image(image = "BDS_HR_M1\Photos\PCA 1.png")
+      st.image(image = "Photos\PCA 1.png")
 
-      st.image(image = "BDS_HR_M1\Photos\PCA 2.png")
+      st.image(image = "Photos\PCA 2.png")
 
-      st.image(image = "BDS_HR_M1\Photos\PCA 3.png")
+      st.image(image = "Photos\PCA 3.png")
 
-      st.image(image = "BDS_HR_M1\Photos\PCA 4.png")
+      st.image(image = "Photos\PCA 4.png")
 
    with st.expander("K-Means"):
 
-      st.image(image = "BDS_HR_M1\Photos\KMeans.png")
+      st.image(image = "Photos\KMeans.png")
 
-      st.image(image = "BDS_HR_M1\Photos\PCA 2.png")
+      st.image(image = "Photos\PCA 2.png")
